@@ -10,4 +10,3 @@
 Run
  - `AirplaneDesign.m` to design your airplane (design variables are wing span b, aspect ratio AR, and battery mass m_bat) and analyse its performance (in the form of excess time t_exc, charge margin t_cm, endurance t_endurance, and minimum state-of-charge SoC).
  - `AirplaneAnalysis.m` to analyse your designed airplane with respect to a) other days of the year or other latitudes or b) meteorological disturbances (clouds or winds) in the form of the clearness and turbulence values.
-    
